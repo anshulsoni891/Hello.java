@@ -1,5 +1,5 @@
 // Save this file as Helloword.java
-public class Helloword {
+public class Helloworld {
 
 
 
